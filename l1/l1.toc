@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{Введение}{2}{0}{1}
+\beamer@sectionintoc {2}{Уровни организации структуры белка}{12}{0}{2}
+\beamer@sectionintoc {3}{Типы взаимодействий в белках}{20}{0}{3}
+\beamer@sectionintoc {4}{Базы данных и выравнивание}{25}{0}{4}
+\beamer@sectionintoc {5}{Общие рассуждения}{30}{0}{5}
+\beamer@sectionintoc {6}{Введение}{37}{0}{6}
+\beamer@sectionintoc {7}{Визуализация c PyMol}{42}{0}{7}
+\beamer@sectionintoc {8}{Selections}{43}{0}{8}
+\beamer@sectionintoc {9}{Анимация}{54}{0}{9}
+\beamer@sectionintoc {10}{Моделирование и редактирование в PyMol }{63}{0}{10}
+\beamer@sectionintoc {11}{Скриптование в PyMol}{73}{0}{11}

@@ -1,0 +1,15 @@
+\frametitle{\$HOME/.pymolrc.py}
+\centering
+\begin{lstlisting}[language=Python]
+from pymol import cmd
+from pymol import stored
+
+@cmd.extend
+def superall(target):
+    seleobjs = cmd.get_object_list('all')
+    for o in seleobjs:
+        if o != target:
+            cmd.super(o,target)
+            print(o)
+\end{lstlisting}
+

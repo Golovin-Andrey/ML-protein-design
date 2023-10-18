@@ -1,0 +1,12 @@
+\frametitle{Линейное представление молекул,InChI }
+InChI = IUPAC International Chemical Identifier \\
+  Структура молекул описывается слоями :
+  \begin{itemize}
+      \item Основной слой содержит описание брутто формулы, связанности (c) и связей с водородами (h)\newline
+          C2H6O/c1-2-3/h3H,2H2,1H3
+      \item Слой с описанием заряда (p) кратности связей
+      \item Слой с описанием стереохимии и связей \newline
+          C6H8O6/c7-1-2(8)5-3(9)4(10)6(11)12-5/h2,5,7-10H,1H2/t2-,5+
+\end{itemize}
+\centering \includegraphics[width=0.3\textwidth]{InChI}
+

@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{Активные молекулы}{3}{0}{1}
+\beamer@sectionintoc {2}{Фарминдустрия}{6}{0}{2}
+\beamer@sectionintoc {3}{HTS}{10}{0}{3}
+\beamer@sectionintoc {4}{Хемоинформатика}{15}{0}{4}
+\beamer@sectionintoc {5}{QSAR}{27}{0}{5}
+\beamer@sectionintoc {6}{ML в хемоинформатике}{34}{0}{6}
+\beamer@sectionintoc {7}{Генеративные подходы}{51}{0}{7}
+\beamer@sectionintoc {8}{Frameworks}{56}{0}{8}
